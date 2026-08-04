@@ -20,7 +20,7 @@ Passionate about cybersecurity, digital forensics, network security, and secure 
 # 📬 Connect With Me
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL"><img src="https://mail.google.com/mail/u/0/#inbox" height="50"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 &nbsp;&nbsp;
