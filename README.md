@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Venkatramana Bhat
 
-### 🛡️ Cyber Security Enthusiast | M.Tech Cyber Security Student | Linux Administrator
+### 🛡️ Cyber Security Enthusiast | M.Tech Cyber Security Student 
 
 <p>
 Passionate about cybersecurity, digital forensics, network security, and secure software development. I enjoy learning new technologies, solving security challenges, and building practical security solutions.
