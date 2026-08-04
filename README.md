@@ -78,7 +78,7 @@ Passionate about cybersecurity, digital forensics, network security, and secure 
 - Nmap
 - pfSense
 - OWASP Top 10
-- Metasploit (Learning)
+- Metasploit (Basics)
 - Digital Forensics
 - Network Traffic Analysis
 - Vulnerability Assessment
@@ -99,16 +99,16 @@ Currently pursuing with a strong focus on:
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-### Linux Administrator
+### Web Designer & Developer
+**New Waves Technology**  
+📅 Sep 2024 – Feb 2025
 
-- Linux Server Administration
-- System Monitoring
-- User & Permission Management
-- Networking
-- Troubleshooting
-
+- Developed and maintained secure client websites with a focus on reliability and performance.
+- Applied security best practices including software updates, patch management, and basic vulnerability mitigation.
+- Collaborated with clients to deliver secure and functional web applications based on business requirements.
+- Improved website security through secure configurations and adherence to web security standards.
 ---
 
 # 🚀 Featured Projects
@@ -117,13 +117,6 @@ Currently pursuing with a strong focus on:
 
 Packet inspection and threat analysis using Wireshark.
 
----
-
-### 🔹 Secure Web Development
-
-Authentication, secure coding practices, and web security.
-
----
 
 ### 🔹 Vulnerability Assessment
 
