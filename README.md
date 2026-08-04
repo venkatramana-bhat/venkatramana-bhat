@@ -9,9 +9,9 @@
 Passionate about cybersecurity, digital forensics, network security, and secure software development. I enjoy learning new technologies, solving security challenges, and building practical security solutions.
 </p>
 
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 </div>
 
