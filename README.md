@@ -63,7 +63,7 @@ Passionate about cybersecurity, digital forensics, network security, and secure 
 
 <img src="https://skillicons.dev/icons?i=kali" />
 
-<img src="https://skillicons.dev/icons?i=docker" />
+<!-- <img src="https://skillicons.dev/icons?i=docker" /> -->
 
 <img src="https://skillicons.dev/icons?i=git" />
 
