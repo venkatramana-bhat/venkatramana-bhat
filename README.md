@@ -22,6 +22,8 @@ Passionate about cybersecurity, digital forensics, network security, and secure 
 <p align="center">
 <a href="mailto:[YOUR_EMAIL](https://mail.google.com/mail/u/0/#inbox)"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 &nbsp;&nbsp;
+<a href="https://instagram.com/mr_venki_bhat"><img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/venkatramana-bhat-ba8165240/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/venkatramana-bhat"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
