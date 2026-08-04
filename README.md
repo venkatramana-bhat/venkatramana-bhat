@@ -137,37 +137,6 @@ Research on collaborative malware detection and adversarial robustness.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=2&column=4"/>
-
-</p>
-
----
 
 # 🎯 Currently Learning
 
@@ -182,13 +151,12 @@ Research on collaborative malware detection and adversarial robustness.
 
 # 📫 Contact
 
-📧 Email: **YOUR_EMAIL**
+📧 Email: **vkbhat252@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/YOUR_LINKEDIN**
+💼 LinkedIn: **https://www.linkedin.com/in/venkatramana-bhat-ba8165240/**
 
-🐙 GitHub: **https://github.com/YOUR_USERNAME**
+🐙 GitHub: **https://github.com/venkatramana-bhat**
 
-🌐 Portfolio: **Coming Soon**
 
 ---
 
